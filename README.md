@@ -1,6 +1,6 @@
 # Obwob Bug Bounty
 
-Obwob is a real-time anonymous feedback platform that enables facilitators ("Leads") to run structured feedback rounds with participants ("Voices") via QR codes or join codes.
+Obwob is a real-time anonymous feedback platform that enables facilitators ('Leads') to run structured feedback rounds with participants ('Voices') via QR codes or join codes.
 
 ## The Brief
 
