@@ -25,7 +25,7 @@ Voices do not need accounts - they join Rounds anonymously when a Lead shares th
 
 ## In Scope
 
-- **Lead flow:** account creation, login, creating and managing rounds, adding questions, sharing rounds
+- **Lead flow:** creating and managing rounds, adding questions, sharing rounds
 - **Voice flow:** joining a round via QR code or join code, submitting feedback anonymously
 - **Mobile and responsive behaviour:** please test on your phone as well as desktop
 - **Accessibility:** keyboard navigation, screen reader behaviour, colour contrast
