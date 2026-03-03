@@ -4,7 +4,7 @@ Thanks for helping us make Obwob better. Obwob is a real-time anonymous feedback
 
 ## The Brief
 
-Find bugs, usability issues, unexpected behaviour and security vulnerabilities in the Obwob MVP during the week of **3 March 2026** to **11:59pm 9 March 2026**.
+Find bugs, usability issues, unexpected behaviour and security vulnerabilities in the Obwob MVP between **Tuesday 3 March 2026** and **11:59pm Monday 9 March 2026**.
 
 ## Reward
 
