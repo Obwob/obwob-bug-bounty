@@ -1,6 +1,6 @@
 # Obwob Bug Bounty
 
-Thanks for helping us make Obwob better. Obwob is a real-time anonymous feedback platform that enables facilitators ("Leads") to run structured feedback rounds with participants ("Voices") via QR codes or join codes.
+Obwob is a real-time anonymous feedback platform that enables facilitators ("Leads") to run structured feedback rounds with participants ("Voices") via QR codes or join codes.
 
 ## The Brief
 
@@ -14,9 +14,11 @@ Will be announced in class on **10 March 2026**
 
 ## Access
 
-Platform URL: **staging.obwob.app**
+Platform URL: **staging.obwob.app/login**
 
-You'll receive an access code separately to create your Lead account. Do not share your access code or credentials outside the group.
+You'll receive an access code separately to create your Lead account. Do not share your access code or credentials outside the group. 
+
+Voices do not need accounts - they join Rounds anonymously when a Lead shares the QR/join code with them. **Please note that the join code directs Voices to 'obwob.app' - for the purposes of testing, Voices should join at 'staging.obwob.app'.**
 
 ## In Scope
 
