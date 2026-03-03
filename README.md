@@ -2,7 +2,7 @@
 
 Thanks for helping us make Obwob better. Obwob is a real-time anonymous feedback platform that enables facilitators ("Leads") to run structured feedback rounds with participants ("Voices") via QR codes or join codes.
 
-## Your Mission
+## The Brief
 
 Find bugs, usability issues and unexpected behaviour in the Obwob MVP during the week of **3 March 2026** to **11:59pm 9 March 2026**.
 
