@@ -8,7 +8,10 @@ Find bugs, usability issues, unexpected behaviour and security vulnerabilities i
 
 ## Reward
 
-[TO BE ADDED]
+3 awards of **£50 Amazon vouchers** each, for:
+- Most unique bugs found
+- Most difficult to track down
+- Best bug report — judged on clarity, reproducibility, and the significance of the bug found.
 
 Will be announced in class on **10 March 2026**
 
