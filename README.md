@@ -24,11 +24,11 @@ You'll receive an access code separately to create your Lead account. Do not sha
 - **Voice flow:** joining a round via QR code or join code, submitting feedback anonymously
 - **Mobile and responsive behaviour:** please test on your phone as well as desktop
 - **Accessibility:** keyboard navigation, screen reader behaviour, colour contrast
-- **Attempting to access other users' data through the platform** please do try this; finding authorisation vulnerabilities is valuable. **Do not** exfiltrate, store, or share any data you access, and do not attempt to access the underlying infrastructure, database or server directly.
+- **Authorisation**: once logged in, try to access rounds, questions, and responses belonging to other Lead accounts by manipulating URLs or request parameters. **Do not** exfiltrate, store or share any data you access, and do not attempt to access the underlying infrastructure, database or server directly.
 
 ## Out of Scope
 
-- Authentication internals
+- Authentication internals (the login, registration and password reset flow). This will be handled by a third-party provider so is out-of-scope for this exercise
 - Infrastructure and hosting
 - Attempting to access the underlying infrastructure, database or server directly
 - Load or performance testing
