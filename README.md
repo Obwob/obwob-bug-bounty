@@ -4,7 +4,7 @@ Obwob is a real-time anonymous feedback platform that enables facilitators ('Lea
 
 ## The Brief
 
-Find bugs, usability issues, unexpected behaviour and security vulnerabilities in the Obwob MVP between **Tuesday 3 March 2026** and **11:59pm Monday 9 March 2026**.
+Find bugs, usability issues, unexpected behaviour and security vulnerabilities in the Obwob MVP between **Tuesday 3 March 2026** and **11:59pm Monday 16 March 2026**.
 
 ## Reward
 
@@ -13,7 +13,7 @@ Find bugs, usability issues, unexpected behaviour and security vulnerabilities i
 - Most difficult to track down
 - Best bug report — judged on clarity, reproducibility, and the significance of the bug found.
 
-Will be announced in class on **10 March 2026**
+Will be announced in class on **17 March 2026**
 
 ## Access
 
@@ -29,7 +29,7 @@ Voices do not need accounts - they join Rounds anonymously when a Lead shares th
 - **Voice flow:** joining a round via QR code or join code, submitting feedback anonymously
 - **Mobile and responsive behaviour:** please test on your phone as well as desktop
 - **Accessibility:** keyboard navigation, screen reader behaviour, colour contrast
-- **Authorisation**: once logged in, try to access rounds, questions, and responses belonging to other Lead accounts by manipulating URLs or request parameters. **Do not** exfiltrate, store or share any data you access.
+- **Authorisation**: once logged in, try to access rounds, questions and responses belonging to other Lead accounts by manipulating URLs or request parameters. **Do not** exfiltrate, store or share any data you access.
 
 ## Out of Scope
 
