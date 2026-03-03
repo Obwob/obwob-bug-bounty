@@ -37,7 +37,7 @@ You'll receive an access code separately to create your Lead account. Do not sha
 
 Use GitHub Issues in this repository. Click **New Issue** and the form will guide you through what to include.
 
-**Please do not open a public issue for security vulnerabilities.** If you find something that could compromise user data or platform security, email **Laura at BSU email (BSU email)** directly instead.
+**Please do not open a public issue for security vulnerabilities.** If you find something that could compromise user data or platform security, email **Laura Gates at BSU email** directly instead.
 
 ## Tips
 
@@ -48,4 +48,4 @@ Use GitHub Issues in this repository. Click **New Issue** and the form will guid
 
 ## Questions
 
-Contact **Laura at BSU email (BSU email)** or raise a discussion in this repo.
+Contact **Laura Gates at BSU email** or raise a discussion in this repo.
