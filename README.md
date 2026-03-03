@@ -48,6 +48,7 @@ Use GitHub Issues in this repository. Click **New Issue** and the form will guid
 
 - Try to break things — use unexpected inputs, skip steps, go back when you shouldn't
 - Test the full round lifecycle: create a round as a Lead, then join it as a Voice from your phone
+- Test at multiple viewports. Leads running Rounds is most likely to be mobile-first, and Voices will almost always join from their phones.
 - If something feels confusing or unintuitive, report it — usability issues are as valuable as bugs
 - Duplicate reports happen; check open issues before submitting
 
