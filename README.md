@@ -4,7 +4,7 @@ Thanks for helping us make Obwob better. Obwob is a real-time anonymous feedback
 
 ## The Brief
 
-Find bugs, usability issues and unexpected behaviour in the Obwob MVP during the week of **3 March 2026** to **11:59pm 9 March 2026**.
+Find bugs, usability issues, unexpected behaviour and security vulnerabilities in the Obwob MVP during the week of **3 March 2026** to **11:59pm 9 March 2026**.
 
 ## Reward
 
@@ -24,11 +24,11 @@ You'll receive an access code separately to create your Lead account. Do not sha
 - **Voice flow:** joining a round via QR code or join code, submitting feedback anonymously
 - **Mobile and responsive behaviour:** please test on your phone as well as desktop
 - **Accessibility:** keyboard navigation, screen reader behaviour, colour contrast
-- **Authorisation**: once logged in, try to access rounds, questions, and responses belonging to other Lead accounts by manipulating URLs or request parameters. **Do not** exfiltrate, store or share any data you access, and do not attempt to access the underlying infrastructure, database or server directly.
+- **Authorisation**: once logged in, try to access rounds, questions, and responses belonging to other Lead accounts by manipulating URLs or request parameters. **Do not** exfiltrate, store or share any data you access.
 
 ## Out of Scope
 
-- Authentication internals (the login, registration and password reset flow). This will be handled by a third-party provider so is out-of-scope for this exercise
+- Authentication - the login, registration and password reset flow. This will be handled by a third-party provider so is out-of-scope for this exercise
 - Infrastructure and hosting
 - Attempting to access the underlying infrastructure, database or server directly
 - Load or performance testing
