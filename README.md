@@ -4,7 +4,7 @@ Obwob is a real-time anonymous feedback platform that enables facilitators ('Lea
 
 ## The Brief
 
-Find bugs, usability issues, unexpected behaviour and security vulnerabilities in the Obwob MVP between **Tuesday 3 March 2026** and **11:59pm Monday 16 March 2026**.
+Find bugs, usability issues, unexpected behaviour and security vulnerabilities in the Obwob MVP between **Tuesday 3 March 2026** and **11:59pm Monday 27 April 2026**.
 
 ## Reward
 
@@ -13,7 +13,7 @@ Find bugs, usability issues, unexpected behaviour and security vulnerabilities i
 - Most difficult to track down
 - Best bug report — judged on clarity, reproducibility, and the significance of the bug found.
 
-Will be announced in class on **17 March 2026**
+Will be announced in class on **28 April 2026**
 
 ## Access
 
